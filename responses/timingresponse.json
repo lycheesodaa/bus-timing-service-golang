@@ -1,0 +1,31 @@
+{
+    "external_id": "SNDS://27031",
+    "forecast": [
+        {
+            "forecast_seconds": 145.85304590308368,
+            "route": {
+                "id": 11815,
+                "name": "Bus Campus Loop Red (CL-R) [Singapore]",
+                "short_name": "Campus Loop Red (CL-R)"
+            },
+            "rv_id": 44478,
+            "total_pass": 759.0243333333333,
+            "vehicle": "31408 PC 369 G/ at NTU Bus park of NTU",
+            "vehicle_id": 31408
+        }
+    ],
+    "geometry": [
+        {
+            "external_id": null,
+            "lat": "1.3516864875",
+            "lon": "103.6806499958",
+            "seq": 1
+        }
+    ],
+    "id": 378204,
+    "name": "Hall 12 &13",
+    "name_en": null,
+    "name_ru": null,
+    "nameslug": "",
+    "resource_uri": "/routes/api/platformbusarrival/378204/"
+}

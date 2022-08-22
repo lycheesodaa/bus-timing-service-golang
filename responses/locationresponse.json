@@ -1,0 +1,64 @@
+{
+    "external_id": null,
+    "id": 44478,
+    "name": "Bus Campus Loop Red (CL-R) [Singapore]: LWN Library, Opp. NIE - NIE, Opp. LWN Library",
+    "name_en": null,
+    "name_ru": null,
+    "nameslug": null,
+    "resource_uri": "/routes/apigeo/routevariantvehicle/44478/",
+    "routename": "Campus Loop Red (CL-R)None",
+    "vehicles": [
+        {
+            "bearing": 240,
+            "device_ts": "2022-03-06T11:41:35",
+            "enterprise": {
+                "enterprise_id": 410,
+                "enterprise_name": "NTU"
+            },
+            "lat": "1.355490000000",
+            "lon": "103.685095000000",
+            "park": {
+                "park_id": 426,
+                "park_name": "NTU Bus park"
+            },
+            "position": {
+                "bearing": 240,
+                "device_ts": 1646556095,
+                "lat": "1.355490000000",
+                "lon": "103.685095000000",
+                "speed": 20,
+                "ts": 1646556098
+            },
+            "projection": {
+                "edge_distance": "1.450",
+                "edge_id": 386794,
+                "edge_projection": "138.484",
+                "edge_start_node_id": 333286,
+                "edge_stop_node_id": 333408,
+                "lat": "1.355501150908",
+                "lon": "103.685088238464",
+                "orig_lat": "1.355490000000",
+                "orig_lon": "103.685095000000",
+                "routevariant_id": 44478,
+                "ts": 1646556098
+            },
+            "registration_code": "PC 369 G",
+            "routevariant_id": 44478,
+            "speed": "17.46",
+            "stats": {
+                "avg_speed": "16.00",
+                "bearing": 240,
+                "cumm_speed_10": "17.39",
+                "cumm_speed_2": "17.46",
+                "device_ts": 1646556095,
+                "lat": "1.355490000000",
+                "lon": "103.685095000000",
+                "speed": 20,
+                "ts": 1646556098
+            },
+            "ts": "2022-03-06T11:41:38",
+            "vehicle_id": 31408
+        }
+    ],
+    "via": null
+}
